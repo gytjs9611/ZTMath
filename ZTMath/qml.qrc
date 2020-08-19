@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SelectObject.qml</file>
+        <file>SelectPanel.qml</file>
+        <file>TypePanel.qml</file>
+        <file>ErrorPage.qml</file>
+        <file>MainPage.qml</file>
+        <file>Banner.qml</file>
+        <file>ButtonPanel.qml</file>
+        <file>CheckBoxPanel.qml</file>
+        <file>CommonButton.qml</file>
+        <file>OptionPanel.qml</file>
+        <file>PageStatePanel.qml</file>
+        <file>QuestBanner.qml</file>
+        <file>QuestContentsPanel.qml</file>
+        <file>QuestionHalfPanel.qml</file>
+        <file>QuestionItem.qml</file>
+        <file>QuestionPage.qml</file>
+        <file>AnswerPage.qml</file>
+        <file>LevelPanel.qml</file>
+        <file>LevelButton.qml</file>
+    </qresource>
+</RCC>
